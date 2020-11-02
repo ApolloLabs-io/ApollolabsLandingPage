@@ -1,0 +1,19 @@
+title: Security First
+author: Deverick Simpson
+email: deverick@apollolabs.io
+description: >-
+  Data Forensics Research and Pentesting Lab.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://deverick.io"
+
+# Build settings
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default" # this ensures all content renders with layouts/default.html
+
+plugins:
+  - jekyll-feed
+  - jekyll-menus
+
