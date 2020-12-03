@@ -61,25 +61,20 @@ page_sections:
     content: |
       Meet the Security Engineers focused on improving your applications. Each one brings an unique story we want to share.
     members:
-    - name: s4lv4ti0n
-      slug: s4lv4ti0n
+    - name: Tomi Jerenko
+      slug: tomijerenko
       image: /uploads/team/s4lv4ti0n/s4lv4ti0n.jpg
-      name_secondary: Tomi Jerenko
       email: s4lv4ti0n@apollolabs.io
       pgp_fingerprint: THIS ISSO MEFA KEPG PKEY 3C92 3D9F 6D5D ADDB 55F7
       # Lets limit to about 300-400 characters
       about: |-
-        Security researcher with engineering background, specializing in application security.
-        By applying extensive academical knowledge in practice, I carry out extensive penetration
-        tests to make your code cry. The application is hardened by analyzing found weaknesses and
-        proposing mitigations through consulting. - Finding the balance between security, usability,
-        and performance takes an artist.
+        Security researcher with software engineering background, specializing in application security, infrastructure security, and network security.
     - name: hashes4merkle
       slug: hashes4merkle
       image: /uploads/team/hashes4merkle/hashes4merkle.jpg
       name_secondary: Deverick Simpson
       website-name: Deverick.io
-      website-link: https://deverick.io  
+      website-link: https://deverick.io
       email: deverick@apollolabs.io
       pgp_fingerprint: F3BC 56B4 6F54 A995 AE52 534F 2BE3 33A7 7646 64BE
       about: |-
