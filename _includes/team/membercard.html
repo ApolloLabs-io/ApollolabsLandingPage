@@ -19,10 +19,12 @@
       <small>E-mail</small>
       <h4><a href = "mailto: {{ member.email}}">{{ member.email}}</a></h4>
     </div>
+    {% if member.pgp_fingerprint %}
     <div class="pgp-key">
       <small>PGP Key Fingerprint</small>
       <h4 id="{{ member.name }}-pgp-key">{{ member.pgp_fingerprint }}</h4>
     </div>
+    {% endif %}
     <div class="about">
       <small>About</small>
       <div>{{ member.about }}</div>

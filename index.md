@@ -63,9 +63,11 @@ page_sections:
     members:
     - name: Tomi Jerenko
       slug: tomijerenko
-      image: /uploads/team/s4lv4ti0n/s4lv4ti0n.jpg
-      email: s4lv4ti0n@apollolabs.io
-      pgp_fingerprint: THIS ISSO MEFA KEPG PKEY 3C92 3D9F 6D5D ADDB 55F7
+      image: /uploads/team/tomijerenko/tomijerenko.jpg
+      website-name: tomijerenko.com
+      website-link: https://tomijerenko.com
+      email: tomijerenko@apollolabs.io
+      # pgp_fingerprint: THIS ISSO MEFA KEPG PKEY 3C92 3D9F 6D5D ADDB 55F7
       # Lets limit to about 300-400 characters
       about: |-
         Security researcher with software engineering background, specializing in application security, infrastructure security, and network security.
