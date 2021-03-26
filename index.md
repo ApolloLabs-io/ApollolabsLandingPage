@@ -71,8 +71,8 @@ page_sections:
       # Lets limit to about 300-400 characters
       about: |-
         Security researcher with software engineering background, specializing in application security, infrastructure security, and network security.
-    - name: hashes4merkle
-      slug: hashes4merkle
+    - name: Deverick Simpson
+      slug: deverickapollo
       image: /uploads/team/hashes4merkle/hashes4merkle.jpg
       name_secondary: Deverick Simpson
       website-name: Deverick.io
