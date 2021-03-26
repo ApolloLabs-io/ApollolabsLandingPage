@@ -74,7 +74,7 @@ page_sections:
     - name: Deverick Simpson
       slug: deverickapollo
       image: /uploads/team/hashes4merkle/hashes4merkle.jpg
-      name_secondary: @deverickapollo
+      #name_secondary: @deverickapollo
       website-name: Deverick.io
       website-link: https://deverick.io
       email: deverick@apollolabs.io
